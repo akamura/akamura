@@ -4,7 +4,7 @@ I am fueled by a strong passion for technology, I thrive on tackling complex cha
 
 ### About Me
 
-- 👨‍💻 I'm currently working on Cisco Meraki CLU [https://github.com/akamura/cisco-meraki-clu].
+- 👨‍💻 I'm currently working on [**Cisco Meraki Command Line Utility**](https://github.com/akamura/cisco-meraki-clu).
 - 📫 How to reach me: [https://www.linkedin.com/in/matiazanella/].
 - ⚡ Fun fact: I'm all about technology and deeply committed to the open-source community. While I'm not into fitness or keto, I'm a big fan of savoring delicious food and embarking on adventures worldwide. 🌍🍔✈️ I strongly believe in the value of open dialogue, just like the open-source culture of sharing for growth. To me, there's nothing quite like sitting at a table, engaging in diverse discussions, much like how varied perspectives enrich the open-source community.
 
