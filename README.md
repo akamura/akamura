@@ -1,6 +1,8 @@
 ## Welcome to My GitHub Page!
 
-I'm all about technology and deeply committed to the open-source community. While I'm not into fitness or keto, I'm a big fan of savoring delicious traditional food and embarking on adventures worldwide 🌍🍔✈️. I strongly believe in the value of open dialogue, just like the open-source culture of **sharing for growth**. o me, there's nothing quite like sitting at a table, engaging in diverse discussions, and savoring delicious food. This experience mirrors how varied perspectives enrich the open-source community..
+I'm all about technology and deeply committed to the open-source community. While I'm not into fitness or keto, I'm a big fan of savoring delicious traditional food and embarking on adventures worldwide 🌍🍔✈️.
+I strongly believe in the value of open dialogue, just like the open-source culture of **sharing for growth**. 
+For me, there's nothing quite like sitting at a table, engaging in diverse discussions, and savoring delicious food. This experience mirrors how varied perspectives enrich the open-source community..
 
 
 ### About Me
