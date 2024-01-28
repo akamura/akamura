@@ -6,8 +6,8 @@ I'm all about technology and deeply committed to the open-source community. Whil
 ### About Me
 
 - 👨‍💻 I'm currently working on [**Cisco Meraki Command Line Utility**](https://github.com/akamura/cisco-meraki-clu).
-- LinkedIn: [https://www.linkedin.com/in/matiazanella/]
-- Personal Website: [https://www.matiazanella.com/]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/matiazanella/]
+- 🌐 Personal Website: [https://www.matiazanella.com/]
 
 ### My relevant projects
 
