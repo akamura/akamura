@@ -7,7 +7,6 @@ For me, there's nothing quite like sitting at a table, engaging in diverse discu
 
 ### About Me
 
-- 👨‍💻 I'm currently working on [**Cisco Meraki Command Line Utility**](https://github.com/akamura/cisco-meraki-clu).
 - 🌐 LinkedIn: [https://www.linkedin.com/in/matiazanella/]
 - 🌐 Personal Website: [https://www.matiazanella.com/]
 
